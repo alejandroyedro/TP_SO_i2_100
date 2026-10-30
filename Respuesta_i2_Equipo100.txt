@@ -5,3 +5,8 @@ Tamara Cortes
 A - Uso "sync fork" desde el repositorio en GitHub y luego en GitBash hago un "git pull".
 
 B - Sí, se pudo.
+
+c - Si, puede GAMMA actualizar su FORK al estado del fork de ALFA si es que el BETA acepta el pull request con el cambio que propone ALFA y GAMMA actualiza su repositorio.
+
+D - Depende de si acepto el pull request propuesto por alguna de las dos partes y no actualizo mi repositorio constantemente 
+ 
