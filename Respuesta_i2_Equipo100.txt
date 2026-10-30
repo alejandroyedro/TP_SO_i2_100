@@ -1,3 +1,7 @@
 Alejandro Yedro
 Draco Quintas
 Tamara Cortes
+
+A - Uso "sync fork" desde el repositorio en GitHub y luego en GitBash hago un "git pull".
+
+B - Sí, se pudo.
