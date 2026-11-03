@@ -10,3 +10,28 @@ c - Si, puede GAMMA actualizar su FORK al estado del fork de ALFA si es que el B
 
 D - Depende de si acepto el pull request propuesto por alguna de las dos partes y no actualizo mi repositorio constantemente 
  
+E - 
+	#Punto2: GAMMA ( Draco Quintas ) hace los siguientes comandos.
+		-  Tiene que hacer Fork al repositorio de BETA ( Alejandro Yedro )
+		- "git clone https://github.com/alejandroyedro/TP_SO_i2_100.git"
+		- "git add ."
+		- "git commit -m 'Modifico fork por primera vez'"
+		- "git push"
+		- Hacer un pull request
+	
+	#Punto3: ALFA ( Tamara Cortes ) hace los siguientes comandos.
+		-  Tiene que hacer Fork al repositorio de BETA ( Alejandro Yedro )
+		- "git clone https://github.com/alejandroyedro/TP_SO_i2_100.git"
+		- "git add ."
+		- "git commit -m 'Punto3'"
+		- "git push"
+		- Hacer un pull request
+
+	#Punto4: BETA ( Alejandro Yedro ) hace los siguientes comandos.
+		- "git pull origin main"
+		- "git add ."
+		- "git commit -m 'agrego un archivo de texto'"
+		- "git push"
+
+	#Punto5: GAMMA ( Draco Quintas ) y ALFA ( Tamara Cortes ), hacen el siguiente comando.
+		-"git pull"
